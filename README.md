@@ -112,31 +112,32 @@ getCreditScore() — Retrieves borrower’s credit score.
 📸 Screenshots:
 
 Home Page:
-![](image.png)
+![Home Page](./image.png)
 
 Borrower Dashboard
-![](image-4.png)
-![](image-5.png)
-![](image-6.png)
+![Borrower Dashboard 1](./image-4.png)
+![Borrower Dashboard 2](./image-5.png)
+![Borrower Dashboard 3](./image-6.png)
 
 Lender Dashboard
-![](image-3.png)
-![](image-2.png)
+![Lender Dashboard 1](./image-3.png)
+![Lender Dashboard 2](./image-2.png)
 
-Loan Cards(Borrower)
-![](image-10.png)
-Loan Cards(Lender)
-![](image-11.png)
+Loan Cards (Borrower)
+![Loan Cards Borrower](./image-10.png)
+
+Loan Cards (Lender)
+![Loan Cards Lender](./image-11.png)
 
 Credit Score Display
-![](image-9.png)
+![Credit Score](./image-9.png)
 
 Repay Loan
-![](image-7.png)
-![](image-8.png)
+![Repay Loan 1](./image-7.png)
+![Repay Loan 2](./image-8.png)
 
 MetaMask Transaction Popup
-![](image-1.png)
+![MetaMask Transaction](./image-1.png)
 
 👩‍💻 Developer
 
