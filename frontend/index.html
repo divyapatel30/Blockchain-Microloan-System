@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microloan DApp</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      color: white;
+      text-align: center;
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 30px;
+    }
+    .btn-container {
+      display: flex;
+      gap: 30px;
+    }
+    .btn {
+      padding: 15px 40px;
+      border: none;
+      border-radius: 8px;
+      background-color: #00c6ff;
+      color: white;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background-color: #0072ff;
+      transform: scale(1.05);
+    }
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 0.9rem;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>💸 Welcome to Microloan DApp</h1>
+  <p>Choose your role to continue</p>
+
+  <div class="btn-container">
+    <button class="btn" onclick="window.location.href='borrow.html'">Borrower</button>
+    <button class="btn" onclick="window.location.href='lend.html'">Lender</button>
+  </div>
+
+  <footer>Powered by Blockchain 💠 | © 2025 Microloan System</footer>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lender | Microloan DApp</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <h1>💼 Microloan DApp – Lender Dashboard</h1>
+
+  <button id="connectButton" onclick="connectWallet()">🔗 Connect MetaMask</button>
+
+  <div id="walletInfo" style="display: none;">
+    <p><b>Connected Wallet:</b> <span id="account"></span></p>
+
+    <h3>Available Loans to Fund</h3>
+    <button id="refreshLoans" onclick="loadLoans()">🔄 Refresh Loans</button>
+
+    <div id="loanList" class="loan-card"></div>
+  <h3 style="text-align:center;">My Funded Loans</h3>
+  <button onclick="showFundedLoans()" class="btn">💰 Show My Funded Loans</button>
+  <div id="fundedLoanList" style="text-align:center;"></div>
+  </div>
+
+
+  <div>
+    <button><a href="index.html" style="text-decoration:none;color:white;">⬅ Back to Home</a></button>
+  </div>
+
+  <footer>Powered by Blockchain 💠 | © 2025 Microloan System</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.15.0/dist/ethers.umd.min.js"></script>
+  <script src="microloanABI.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
