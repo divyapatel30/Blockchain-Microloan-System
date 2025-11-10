@@ -18,7 +18,7 @@ This decentralized application (DApp) leverages **Ethereum smart contracts** to 
 ---
 
 ## 🧠 Tech Stack
-|----------------------------------------------------|
+
 | Layer                 | Technology Used            |
 |-----------------------|----------------------------|
 | **Frontend**          | HTML, CSS, JavaScript      |
@@ -27,7 +27,7 @@ This decentralized application (DApp) leverages **Ethereum smart contracts** to 
 | **Wallet**            | MetaMask                   |
 | **Local Blockchain**  | Hardhat                    |
 | **IDE / Code Editor** | Visual Studio Code         |
-|----------------------------------------------------|
+
 ---
 
 ## ⚙️ Smart Contract Functionalities
@@ -112,31 +112,31 @@ getCreditScore() — Retrieves borrower’s credit score.
 📸 Screenshots:
 
 Home Page:
-![alt text](image.png)
+(image.png)
 
 Borrower Dashboard
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+(image-4.png)
+(image-5.png)
+(image-6.png)
 
 Lender Dashboard
-![alt text](image-3.png)
-![alt text](image-2.png)
+(image-3.png)
+(image-2.png)
 
 Loan Cards(Borrower)
-![alt text](image-10.png)
+(image-10.png)
 Loan Cards(Lender)
-![alt text](image-11.png)
+(image-11.png)
 
 Credit Score Display
-![alt text](image-9.png)
+(image-9.png)
 
 Repay Loan
-![alt text](image-7.png)
-![alt text](image-8.png)
+(image-7.png)
+(image-8.png)
 
 MetaMask Transaction Popup
-![alt text](image-1.png)
+(image-1.png)
 
 👩‍💻 Developer
 
