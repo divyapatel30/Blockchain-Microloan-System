@@ -44,8 +44,8 @@ This decentralized application (DApp) leverages **Ethereum smart contracts** to 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/divyapatel30/microloan-dapp.git
-cd microloan-dapp
+git clone https://github.com/divyapatel30/Blockchain-Microloan-System.git
+cd Blockchain-Microloan-System
 2️⃣ Install Dependencies
 npm install
 3️⃣ Start Local Blockchain (Hardhat)
